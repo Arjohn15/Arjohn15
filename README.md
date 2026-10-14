@@ -110,7 +110,8 @@ A web-based platform designed to improve emergency incident reporting, communica
 - 💬 Live messaging and emergency response coordination.
 - 🔐 Role-based access control and incident management.
 
-**Status:** In development · Repository not publicly linked yet.
+- **Live Demo:** https://rescuelinktaguig.com
+- **GitHub Repository:** Not publicly available yet; preparing the repository for release.
 
 ### Amihan Staycation
 
