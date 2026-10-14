@@ -1,19 +1,17 @@
 <div align="center">
 
-# Arjohn Banado
+# 👋 Welcome, I'm AJ!
 
 **Full Stack Developer · Aspiring Software Engineer · Computer Science Student**
 
-I build practical web applications with a focus on full-stack development, reliable APIs, and thoughtful software design.
+I'm a Computer Science student and aspiring full-stack developer who enjoys building practical web applications, reliable APIs, and thoughtful software solutions.
 
 <a href="https://www.linkedin.com/in/arjohn-banado-362291443">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Connect with me" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-
-<br/><br/>
-
+&nbsp;
 <a href="mailto:ajbanado15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — Contact me" />
+  <img src="https://img.shields.io/badge/Email-Send%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
 
 </div>
@@ -164,13 +162,11 @@ BeezBudget is being developed as an accessible budgeting app. Current work focus
 I'm interested in connecting with developers and exploring internship or entry-level opportunities in software development.
 
 <a href="https://www.linkedin.com/in/arjohn-banado-362291443">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Connect with me" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-
-<br/><br/>
-
+&nbsp;
 <a href="mailto:ajbanado15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — Contact me" />
+  <img src="https://img.shields.io/badge/Email-Send%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
 
 ---
