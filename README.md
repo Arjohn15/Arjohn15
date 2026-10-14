@@ -20,14 +20,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 **BS Computer Science** student at Taguig City University.
 - 🏅 CHED Merit Scholar and TCU Scholar.
 - 💻 Focused on full-stack development, modern web technologies, and building scalable, reliable, and user-focused applications.
 - 🤝 I enjoy collaborating on projects and continuously improving my software engineering skills.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Programming Languages**
 
