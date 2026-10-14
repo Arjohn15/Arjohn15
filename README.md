@@ -110,8 +110,7 @@ A web-based platform designed to improve emergency incident reporting, communica
 - 💬 Live messaging and emergency response coordination.
 - 🔐 Role-based access control and incident management.
 
-- **Live Demo:** https://rescuelinktaguig.com
-- **GitHub Repository:** Not publicly available yet; preparing the repository for release.
+[**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**] *Coming soon*
 
 ### Amihan Staycation
 
@@ -125,7 +124,7 @@ A web-based booking platform that enables guests to explore listings, manage res
 - 🔐 Authentication and session management.
 - 🔔 Real-time notifications and booking updates.
 
-[**View Repository**](https://github.com/Project2START/amihan-staycation) · [**Live Demo**](https://amihanstaycation.vercel.app)
+[**Live Demo**](https://amihanstaycation.vercel.app) · [**View Repository**](https://github.com/Project2START/amihan-staycation)
 
 ### BeezBudget
 
@@ -139,7 +138,7 @@ A personal finance application currently focused on account access and authentic
 - 🔄 Password recovery and reset workflows.
 - 🗄️ PostgreSQL persistence with Prisma.
 
-**Status:** In development · No public repository or live demo yet.
+[**Live Demo**] *Coming soon* · [**View Repository**] *Coming soon*
 
 ## 🤝 Let's Connect
 
