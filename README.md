@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Welcome, I'm AJ!
+# 👋 Hi there! Welcome. I'm AJ.
 
 **Full Stack Developer · Aspiring Software Engineer · Computer Science Student**
 
-I'm a Computer Science student and aspiring full-stack developer who enjoys building practical web applications, reliable APIs, and thoughtful software solutions.
+Full-stack developer focused on building scalable web applications, well-structured APIs, and reliable software solutions. Experienced in modern web technologies, backend development, database design, and application architecture, with a strong commitment to writing maintainable code and delivering practical solutions.
 
 <a href="https://www.linkedin.com/in/arjohn-banado-362291443">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
@@ -22,7 +22,7 @@ I'm a Computer Science student and aspiring full-stack developer who enjoys buil
 
 - 🎓 **BS Computer Science** student at Taguig City University.
 - 🏅 CHED Merit Scholar and TCU Scholar.
-- 💻 Interested in full-stack development, backend engineering, databases, real-time applications, and cloud deployment.
+- 💻 Focused on full-stack development, modern web technologies, and building scalable, reliable, and user-focused applications.
 - 🤝 I enjoy collaborating on projects and continuously improving my software engineering skills.
 
 ## 🧰 Tech Stack
@@ -121,7 +121,7 @@ A platform developed to streamline communication between residents and emergency
 
 **Staycation booking and management platform**
 
-**Client:** Azure Staycation Urban Residence
+*Client project for a business under **Azure Staycation Urban Residence.***
 
 - **Live website:** https://amihanstaycation.vercel.app
 - **GitHub repository:** https://github.com/Project2START/amihan-staycation
