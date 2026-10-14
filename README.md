@@ -100,62 +100,45 @@ Full-stack developer focused on building scalable web applications, well-structu
 
 ### RescueLink Taguig
 
-**Emergency response, incident logging, and civilian coordination platform**
+**Emergency Response and Incident Coordination Platform**
 
-**Client:** Command Center of Taguig
+*Computer Science thesis project developed for the Command Center of Taguig.*
 
-- **Website:** https://rescuelinktaguig.com
-- **GitHub repository:** Not publicly linked yet.
+A web-based platform designed to improve emergency incident reporting, communication, and coordination between residents and emergency response teams.
 
-A platform developed to streamline communication between residents and emergency response agencies, including police, fire, medical, and DRRMO teams in Taguig City.
+- 🗺️ Real-time incident mapping and location-based coordination.
+- 💬 Live messaging and emergency response coordination.
+- 🔐 Role-based access control and incident management.
 
-- 🗺️ Real-time incident mapping using React-Leaflet and GeoJSON.
-- 💬 WebSocket-powered internal messaging and live emergency coordination.
-- 🌦️ Weather and flood-risk monitoring integrations.
-- 🔐 Role-based access control for protected API endpoints and frontend views.
-- 🚑 Live tracking and assignment of emergency resources across agencies.
-
-**Stack:** JavaScript, TypeScript, React, Next.js, React-Leaflet, Node.js, NestJS, Express.js, PostgreSQL, Prisma, Socket.IO, WebRTC, AWS, Docker.
+**Status:** In development · Repository not publicly linked yet.
 
 ### Amihan Staycation
 
-**Staycation booking and management platform**
+**Staycation Booking and Management Platform**
 
-*Client project for a business under **Azure Staycation Urban Residence.***
+*Client project for a business under Azure Staycation Urban Residence.*
 
-- **Live website:** https://amihanstaycation.vercel.app
-- **GitHub repository:** https://github.com/Project2START/amihan-staycation
+A web-based booking platform that enables guests to explore listings, manage reservations, and submit reviews, with dedicated dashboards for administrators and agents.
 
-A web-based booking platform that lets guests explore staycation listings, book accommodations, and share reviews. Dedicated admin and agent dashboards support user, reservation, and notification management.
+- 🏨 Role-based dashboards and reservation management.
+- 🔐 Authentication and session management.
+- 🔔 Real-time notifications and booking updates.
 
-- 🏨 Role-based access for users, admins, and agents.
-- 🔐 JWT authentication and server-managed sessions.
-- 📅 Booking creation and history tracking.
-- 💳 Payment-method management.
-- 🔔 Notifications and real-time updates.
-- ⭐ Reviews and ratings workflow.
-
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, Material UI, SWR, Apollo Client, Node.js, Express.js, PostgreSQL, Prisma, Supabase, Render, Vercel, Socket.IO, Jest.
+[**View Repository**](https://github.com/Project2START/amihan-staycation) · [**Live Demo**](https://amihanstaycation.vercel.app)
 
 ### BeezBudget
 
-**Full-stack personal finance application**
+**Personal Finance and Budgeting Application**
 
-**Client:** Personal project
+*Personal project · Work in progress.*
 
-- **Status:** In development.
-- **Website:** Not available yet.
-- **GitHub repository:** Not publicly linked yet.
+A personal finance application currently focused on account access and authentication, with budgeting, transaction tracking, savings goals, and analytics planned for future development.
 
-BeezBudget is being developed as an accessible budgeting app. Current work focuses on account access; spending tracking, budget planning, savings goals, analytics, and offline PWA support are planned but not yet implemented.
+- 🔑 Registration, sign-in, and email verification.
+- 🔄 Password recovery and reset workflows.
+- 🗄️ PostgreSQL persistence with Prisma.
 
-- 🔑 Registration and sign-in.
-- ✉️ Email verification, including resend support.
-- 🔄 Forgot-password and password-reset flows.
-- 🍪 JWT authentication using an HTTP-only access-token cookie.
-- 🗄️ PostgreSQL persistence through Prisma.
-
-**Stack:** Next.js, React, TypeScript, Material UI, Tailwind CSS, NestJS, Passport, JWT, Zod, PostgreSQL, Prisma, Resend, Vitest, Jest.
+**Status:** In development · No public repository or live demo yet.
 
 ## 🤝 Let's Connect
 
