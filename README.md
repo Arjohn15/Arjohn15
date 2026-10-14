@@ -147,11 +147,15 @@ A personal finance application currently focused on account access and authentic
 I'm interested in connecting with developers and exploring internship or entry-level opportunities in software development.
 
 <a href="https://www.linkedin.com/in/arjohn-banado-362291443">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/ArjohnBanado15">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 &nbsp;
 <a href="mailto:ajbanado15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 ---
