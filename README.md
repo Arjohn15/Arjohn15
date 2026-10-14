@@ -4,8 +4,6 @@
 
 **Full Stack Developer · Aspiring Software Engineer · Computer Science Student**
 
-Full-stack developer focused on building scalable web applications, well-structured APIs, and reliable software solutions. Experienced with modern web technologies and software architecture, with an emphasis on maintainable code and practical solutions.
-
 <a href="https://www.linkedin.com/in/arjohn-banado-362291443">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
