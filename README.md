@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="mailto:ajbanado15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Gmail" />
 </a>
 
 </div>
