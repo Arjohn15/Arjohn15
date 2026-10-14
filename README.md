@@ -98,7 +98,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### RescueLink Taguig
 
