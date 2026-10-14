@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
+<a href="https://www.facebook.com/ArjohnBanado15">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Connect on Facebook" />
+</a>
+&nbsp;
 <a href="mailto:ajbanado15@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
