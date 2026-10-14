@@ -20,7 +20,7 @@ I'm a Computer Science student and aspiring full-stack developer who enjoys buil
 
 ## 👨‍💻 About Me
 
-- 🎓 **BS Computer Science** student at Taguig City University, expected to graduate in May 2027.
+- 🎓 **BS Computer Science** student at Taguig City University.
 - 🏅 CHED Merit Scholar and TCU Scholar.
 - 💻 Interested in full-stack development, backend engineering, databases, real-time applications, and cloud deployment.
 - 🤝 I enjoy collaborating on projects and continuously improving my software engineering skills.
