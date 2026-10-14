@@ -135,7 +135,7 @@ A web-based booking platform that lets guests explore staycation listings, book 
 - 🔔 Notifications and real-time updates.
 - ⭐ Reviews and ratings workflow.
 
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, Material UI, SWR, Apollo Client, Node.js, Express.js, PostgreSQL, Prisma, Supabase, Socket.IO, Jest.
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Material UI, SWR, Apollo Client, Node.js, Express.js, PostgreSQL, Prisma, Supabase, Render, Vercel, Socket.IO, Jest.
 
 ### BeezBudget
 
