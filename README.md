@@ -15,9 +15,7 @@
 </div>
 
 ---
-
-
-
+<br>
 ## 👨‍💻 About Me
 
 - 🎓 **BS Computer Science** student at Taguig City University.
@@ -25,8 +23,7 @@
 - 💻 Focused on full-stack development, modern web technologies, and building scalable, reliable, and user-focused applications.
 - 🤝 I enjoy collaborating on projects and continuously improving my software engineering skills.
 
-
-
+<br>
 ## 🧰 Tech Stack
 
 **Programming Languages**
@@ -98,8 +95,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-
-
+<br>
 ## 🚀 Featured Projects
 
 ### RescueLink Taguig
@@ -116,8 +112,7 @@ A web-based platform designed to improve emergency incident reporting, communica
 
 [**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**] *Coming soon*
 
-
-
+<br>
 ### Amihan Staycation
 
 **Staycation Booking and Management Platform**
@@ -132,8 +127,7 @@ A web-based booking platform that enables guests to explore listings, manage res
 
 [**Live Demo**](https://amihanstaycation.vercel.app) · [**View Repository**](https://github.com/Project2START/amihan-staycation)
 
-
-
+<br>
 ### BeezBudget
 
 **Personal Finance and Budgeting Application**
@@ -148,8 +142,7 @@ A personal finance application currently focused on account access and authentic
 
 [**Live Demo**] *Coming soon* · [**View Repository**] *Coming soon*
 
-
-
+<br>
 ## 🤝 Let's Connect
 
 I'm interested in connecting with developers and exploring internship or entry-level opportunities in software development.
