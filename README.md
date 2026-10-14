@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm AJ.
+# Hi there! I'm AJ.
 
 **Full Stack Developer · Aspiring Software Engineer · Computer Science Student**
 
