@@ -17,12 +17,14 @@
 ---
 
 
+
 ## 👨‍💻 About Me
 
 - 🎓 **BS Computer Science** student at Taguig City University.
 - 🏅 CHED Merit Scholar and TCU Scholar.
 - 💻 Focused on full-stack development, modern web technologies, and building scalable, reliable, and user-focused applications.
 - 🤝 I enjoy collaborating on projects and continuously improving my software engineering skills.
+
 
 
 ## 🧰 Tech Stack
@@ -97,6 +99,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
+
 ## 🚀 Featured Projects
 
 ### RescueLink Taguig
@@ -114,6 +117,7 @@ A web-based platform designed to improve emergency incident reporting, communica
 [**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**] *Coming soon*
 
 
+
 ### Amihan Staycation
 
 **Staycation Booking and Management Platform**
@@ -129,6 +133,7 @@ A web-based booking platform that enables guests to explore listings, manage res
 [**Live Demo**](https://amihanstaycation.vercel.app) · [**View Repository**](https://github.com/Project2START/amihan-staycation)
 
 
+
 ### BeezBudget
 
 **Personal Finance and Budgeting Application**
@@ -142,6 +147,7 @@ A personal finance application currently focused on account access and authentic
 - 🗄️ PostgreSQL persistence with Prisma.
 
 [**Live Demo**] *Coming soon* · [**View Repository**] *Coming soon*
+
 
 
 ## 🤝 Let's Connect
