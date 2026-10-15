@@ -114,7 +114,7 @@ A web-based platform designed to improve emergency incident reporting, communica
 
 [**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**](https://github.com/emergencyadmincenter/rescue-link-taguig)
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="75%" align="left" valign="top">
       <strong>Desktop View</strong><br />
@@ -141,7 +141,7 @@ A web-based booking platform that enables guests to explore listings, manage res
 
 [**Live Demo**](https://amihanstaycation.vercel.app) · [**View Repository**](https://github.com/Project2START/amihan-staycation)
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="75%" align="left" valign="top">
       <strong>Desktop View</strong><br />
@@ -168,7 +168,7 @@ A personal finance application currently focused on account access and authentic
 
 [**Live Demo**] *Coming soon* · [**View Repository**] *Coming soon*
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="75%" align="left" valign="top">
       <strong>Desktop View</strong><br />
