@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there! I'm AJ.
@@ -107,10 +106,6 @@
 
 *Computer Science thesis project developed for the Command Center of Taguig.*
 
-<div align="left">
-  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/rescuelink-taguig.png" alt="RescueLink Taguig application preview" width="600" />
-</div>
-
 A web-based platform designed to improve emergency incident reporting, communication, and coordination between residents and emergency response teams.
 
 - 🗺️ Real-time incident mapping and location-based coordination.
@@ -119,15 +114,24 @@ A web-based platform designed to improve emergency incident reporting, communica
 
 [**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**](https://github.com/emergencyadmincenter/rescue-link-taguig)
 
+<table>
+  <tr>
+    <td width="75%" align="left" valign="top">
+      <strong>Desktop View</strong><br />
+      <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/rescuelink-taguig-desktop.png" alt="RescueLink Taguig desktop screenshot" width="100%" />
+    </td>
+    <td width="25%" align="left" valign="top">
+      <strong>Mobile View</strong><br />
+      <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/rescuelink-taguig-mobile.png" alt="RescueLink Taguig mobile screenshot" width="180" />
+    </td>
+  </tr>
+</table>
+
 ### Amihan Staycation
 
 **Staycation Booking and Management Platform**
 
 *Client project for a business under Azure Staycation Urban Residence.*
-
-<div align="left">
-  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/amihan-staycation.png" alt="Amihan Staycation booking platform preview" width="600" />
-</div>
 
 A web-based booking platform that enables guests to explore listings, manage reservations, and submit reviews, with dedicated dashboards for administrators and agents.
 
@@ -137,15 +141,24 @@ A web-based booking platform that enables guests to explore listings, manage res
 
 [**Live Demo**](https://amihanstaycation.vercel.app) · [**View Repository**](https://github.com/Project2START/amihan-staycation)
 
+<table>
+  <tr>
+    <td width="75%" align="left" valign="top">
+      <strong>Desktop View</strong><br />
+      <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/amihan-staycation-desktop.png" alt="Amihan Staycation desktop screenshot" width="100%" />
+    </td>
+    <td width="25%" align="left" valign="top">
+      <strong>Mobile View</strong><br />
+      <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/amihan-staycation-mobile.png" alt="Amihan Staycation mobile screenshot" width="180" />
+    </td>
+  </tr>
+</table>
+
 ### BeezBudget
 
 **Personal Finance and Budgeting Application**
 
 *Personal project · Work in progress.*
-
-<div align="left">
-  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/beezbudget.png" alt="BeezBudget application preview" width="600" />
-</div>
 
 A personal finance application currently focused on account access and authentication, with budgeting, transaction tracking, savings goals, and analytics planned for future development.
 
@@ -154,6 +167,19 @@ A personal finance application currently focused on account access and authentic
 - 🗄️ PostgreSQL persistence with Prisma.
 
 [**Live Demo**] *Coming soon* · [**View Repository**] *Coming soon*
+
+<table>
+  <tr>
+    <td width="75%" align="left" valign="top">
+      <strong>Desktop View</strong><br />
+      <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/beez-budget-desktop.png" alt="BeezBudget desktop screenshot" width="100%" />
+    </td>
+    <td width="25%" align="left" valign="top">
+      <strong>Mobile View</strong><br />
+      <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/beez-budget-mobile.png" alt="BeezBudget mobile screenshot" width="180" />
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Let's Connect
 
