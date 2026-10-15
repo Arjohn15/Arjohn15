@@ -104,7 +104,7 @@
 
 **Emergency Response and Incident Coordination Platform**
 
-*Computer Science thesis project developed for the Command Center of Taguig.*
+_Computer Science thesis project developed for the Command Center of Taguig._
 
 A web-based platform designed to improve emergency incident reporting, communication, and coordination between residents and emergency response teams.
 
@@ -114,13 +114,13 @@ A web-based platform designed to improve emergency incident reporting, communica
 
 [**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**](https://github.com/emergencyadmincenter/rescue-link-taguig)
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td width="75%" align="left" valign="top">
+    <td width="75%" align="left" valign="top" style="border: none;">
       <strong>Desktop View</strong><br />
       <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/rescuelink-taguig-desktop.png" alt="RescueLink Taguig desktop screenshot" width="100%" />
     </td>
-    <td width="25%" align="left" valign="top">
+    <td width="25%" align="left" valign="top" style="border: none;">
       <strong>Mobile View</strong><br />
       <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/rescuelink-taguig-mobile.png" alt="RescueLink Taguig mobile screenshot" width="180" />
     </td>
@@ -131,7 +131,7 @@ A web-based platform designed to improve emergency incident reporting, communica
 
 **Staycation Booking and Management Platform**
 
-*Client project for a business under Azure Staycation Urban Residence.*
+_Client project for a business under Azure Staycation Urban Residence._
 
 A web-based booking platform that enables guests to explore listings, manage reservations, and submit reviews, with dedicated dashboards for administrators and agents.
 
@@ -141,13 +141,13 @@ A web-based booking platform that enables guests to explore listings, manage res
 
 [**Live Demo**](https://amihanstaycation.vercel.app) · [**View Repository**](https://github.com/Project2START/amihan-staycation)
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td width="75%" align="left" valign="top">
+    <td width="75%" align="left" valign="top" style="border: none;">
       <strong>Desktop View</strong><br />
       <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/amihan-staycation-desktop.png" alt="Amihan Staycation desktop screenshot" width="100%" />
     </td>
-    <td width="25%" align="left" valign="top">
+    <td width="25%" align="left" valign="top" style="border: none;">
       <strong>Mobile View</strong><br />
       <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/amihan-staycation-mobile.png" alt="Amihan Staycation mobile screenshot" width="180" />
     </td>
@@ -158,7 +158,7 @@ A web-based booking platform that enables guests to explore listings, manage res
 
 **Personal Finance and Budgeting Application**
 
-*Personal project · Work in progress.*
+_Personal project · Work in progress._
 
 A personal finance application currently focused on account access and authentication, with budgeting, transaction tracking, savings goals, and analytics planned for future development.
 
@@ -166,15 +166,15 @@ A personal finance application currently focused on account access and authentic
 - 🔄 Password recovery and reset workflows.
 - 🗄️ PostgreSQL persistence with Prisma.
 
-[**Live Demo**] *Coming soon* · [**View Repository**] *Coming soon*
+[**Live Demo**] _Coming soon_ · [**View Repository**] _Coming soon_
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td width="75%" align="left" valign="top">
+    <td width="75%" align="left" valign="top" style="border: none;">
       <strong>Desktop View</strong><br />
       <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/beez-budget-desktop.png" alt="BeezBudget desktop screenshot" width="100%" />
     </td>
-    <td width="25%" align="left" valign="top">
+    <td width="25%" align="left" valign="top" style="border: none;">
       <strong>Mobile View</strong><br />
       <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/beez-budget-mobile.png" alt="BeezBudget mobile screenshot" width="180" />
     </td>
