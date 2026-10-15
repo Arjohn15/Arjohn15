@@ -107,8 +107,8 @@
 
 *Computer Science thesis project developed for the Command Center of Taguig.*
 
-<div align="center">
-  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/rescuelink-taguig.png" alt="RescueLink Taguig application preview" width="800" />
+<div align="left">
+  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/rescuelink-taguig.png" alt="RescueLink Taguig application preview" width="500" />
 </div>
 
 A web-based platform designed to improve emergency incident reporting, communication, and coordination between residents and emergency response teams.
@@ -125,8 +125,8 @@ A web-based platform designed to improve emergency incident reporting, communica
 
 *Client project for a business under Azure Staycation Urban Residence.*
 
-<div align="center">
-  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/amihan-staycation.png" alt="Amihan Staycation booking platform preview" width="800" />
+<div align="left">
+  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/amihan-staycation.png" alt="Amihan Staycation booking platform preview" width="500" />
 </div>
 
 A web-based booking platform that enables guests to explore listings, manage reservations, and submit reviews, with dedicated dashboards for administrators and agents.
@@ -143,8 +143,8 @@ A web-based booking platform that enables guests to explore listings, manage res
 
 *Personal project · Work in progress.*
 
-<div align="center">
-  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/beezbudget.png" alt="BeezBudget application preview" width="800" />
+<div align="left">
+  <img src="https://github.com/arjohnbanado/arjohnbanado/blob/main/assets/projects/beezbudget.png" alt="BeezBudget application preview" width="500" />
 </div>
 
 A personal finance application currently focused on account access and authentication, with budgeting, transaction tracking, savings goals, and analytics planned for future development.
