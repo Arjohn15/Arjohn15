@@ -112,7 +112,7 @@ A web-based platform designed to improve emergency incident reporting, communica
 - 💬 Live messaging and emergency response coordination.
 - 🔐 Role-based access control and incident management.
 
-[**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**] *Coming soon*
+[**Live Demo**](https://rescuelinktaguig.com) · [**View Repository**](https://github.com/emergencyadmincenter/rescue-link-taguig)
 
 ### Amihan Staycation
 
