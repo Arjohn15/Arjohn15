@@ -166,7 +166,7 @@ A personal finance application currently focused on account access and authentic
 - 🔄 Password recovery and reset workflows.
 - 🗄️ PostgreSQL persistence with Prisma.
 
-[**Live Demo**] _Coming soon_ · [**View Repository**] _Coming soon_
+[**Live Demo**] _Coming soon_ · [**View Repository**](https://github.com/arjohnbanado/beezbudget)
 
 <table>
   <tr>
